@@ -1,1 +1,0 @@
-VERSION FINALE AUTONOME : كل HTML فيه CSS والتصاميم والـSVG مدموجين داخلو، ما محتاجش styles.css خارجي. افتح index.html مباشرة أو ارفع الملفات الأربعة لـGitHub/Vercel.
