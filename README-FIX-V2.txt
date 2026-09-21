@@ -1,0 +1,1 @@
+1) In Supabase SQL Editor run FIX-ADMIN-SAVE-V2.sql. 2) Upload this ZIP to Vercel. 3) Product pages are empty until you add products from Admin. 4) Product images are compressed in the browser before saving.
