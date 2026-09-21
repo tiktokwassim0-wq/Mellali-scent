@@ -1,1 +1,0 @@
-Version v15 : pages Parfums Complets / Echantillons / Miniatures affichent exactement 4 produits de test avec prix. Les boutons Ajouter au panier utilisent localStorage mellaliCart et ont été fiabilisés. Cette version utilise volontairement les 4 produits de test pour vérifier le storefront; la connexion aux produits Supabase pourra être réactivée après validation.
